@@ -16,3 +16,5 @@ cities.txt
 
 Make sure DNC.txt and leads.txt files are available to write in.
 
+run
+> python3 main.py
